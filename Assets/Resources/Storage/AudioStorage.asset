@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c521c5de0aaf405895541faf255dd5ae, type: 3}
+  m_Name: AudioStorage
+  m_EditorClassIdentifier: 
+  AudioClips:
+  - Key: slap
+    AudioClip: {fileID: 8300000, guid: d6761fc8e878778429dd6fde7e9b6684, type: 3}
+    Capacity: 3
+  - Key: merge
+    AudioClip: {fileID: 8300000, guid: 9eb93a4395b170b47bf4736770c976f0, type: 3}
+    Capacity: 4
+  - Key: splash
+    AudioClip: {fileID: 8300000, guid: 415e775ac3da83141855fe8351c7a866, type: 3}
+    Capacity: 1
+  - Key: new_level
+    AudioClip: {fileID: 8300000, guid: ee060b44f20cd21448330760793438f5, type: 3}
+    Capacity: 1
+  - Key: shoot
+    AudioClip: {fileID: 8300000, guid: 4076e349c49a33341a71f81be62cf285, type: 3}
+    Capacity: 3
