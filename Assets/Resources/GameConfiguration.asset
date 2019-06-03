@@ -145,22 +145,22 @@ MonoBehaviour:
     Chance: 0
   Levels:
   - Level: 1
-    Score: 500
+    Score: 1000
   - Level: 2
-    Score: 3000
+    Score: 5000
   - Level: 3
     Score: 10000
   - Level: 4
-    Score: 50000
+    Score: 25000
   - Level: 5
-    Score: 150000
+    Score: 50000
   - Level: 6
-    Score: 500000
+    Score: 75000
   - Level: 7
-    Score: 1000000
+    Score: 150000
   - Level: 8
-    Score: 2500000
+    Score: 250000
   - Level: 9
-    Score: 5000000
+    Score: 500000
   - Level: 10
-    Score: 10000000
+    Score: 1000000
